@@ -1,4 +1,4 @@
-# 
+# Avanzado BugHunter paquete. Descarga e instala con interfaz amigable y descarga rápida — rápido, seguro y fácil de usar.
 
 
 
